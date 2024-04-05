@@ -28,7 +28,8 @@ allatkert.uj_allat(allat2)
 allatkert2.uj_allat(allat3)
 
 n = 'valami'
-print(nsß)
+print(n)
+print('uwu')
 
 print(allatkert.kiir())
 print(allatkert2.kiir())
