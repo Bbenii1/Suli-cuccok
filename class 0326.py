@@ -26,7 +26,7 @@ allat3 = Allatok("Horatius", "majom", 48)
 allatkert.uj_allat(allat1)
 allatkert.uj_allat(allat2)
 allatkert2.uj_allat(allat3)
- 
+  
 print(allatkert.kiir())
 print(allatkert2.kiir())
 
