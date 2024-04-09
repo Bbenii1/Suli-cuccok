@@ -11,4 +11,4 @@ class kor:
 r = int(input('Hany centimeter legyen a kor sugara? '))
 
 print(f'A kor kerulete {kor(r).kerulet():.2f}cm.')
-print(f'A kor terulete {kor(r).terulet():.2f}cm.')
+print(f'A kor terulete {kor(r).terulet():.2f}cm2.')
