@@ -33,6 +33,9 @@ h3 {
 p{
     text-align: justify;
 }
+p::first-letter{
+    margin-left: 36px;
+}
 
 .navbar{
     background-color: #198754;
