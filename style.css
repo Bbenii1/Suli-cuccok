@@ -1,0 +1,67 @@
+header{    
+    background-position: center center;
+    height: 350px;
+    background-image: url(../img/hatterkep.jpg);
+}
+
+h1{
+    background-color: rgba(248, 248, 248, 0.25);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #198754;
+    font-style: italic;
+    margin-top: 80px;
+    padding-left: 11rem;
+    padding-bottom: 4px;
+    padding-top: 4px;
+}
+
+h2{    
+    margin-top: 10px;
+    border-color: #198754;
+    color: #198754;
+    border-left: 3px solid;
+    font-variant: small-caps;
+    padding: 15px 5px;  
+}
+h3 {
+    font-size: 1.2em;
+}
+
+h1, h2, h3 {
+    color: #198754;
+}
+
+h2, h3{
+    letter-spacing: 1px;
+}
+p{
+    text-align: justify;
+    
+}
+
+li{
+    align-self: left;
+    margin-left: 36px;
+    list-style: url('../img/alma_ikon.png');
+}
+
+img {
+    width: 100%;
+}
+
+.navbar {
+    background-color: #198754;
+}
+
+td,th{
+    text-align: center;
+}
+
+thead>tr:first-child{    
+    letter-spacing: 2px; 
+    text-transform: uppercase;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: aliceblue;
+}
